@@ -1,0 +1,5 @@
+In this unit, we covered how to install the Python environment and how to set up a text editor. In the course, they opted for Brackets as the text editor, but they also recommended using VS Code if it is already installed on your computer. Once everything is installed, they asked us to test if the setup is complete by opening the text editor, creating a Python file, and running the line print("Hello, world") to make sure everything is working properly.
+
+This is a relatively simple task, but it is necessary for every student to have the full Python environment installed in order to complete the course.
+
+They also mentioned that students should be familiar with concepts like variables, expressions, iteration structures, and conditional statements, which are covered in the same course Python for Everybody.
